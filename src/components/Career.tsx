@@ -18,7 +18,7 @@ const Career = () => {
                 <h3>2025 &mdash; NOW</h3>
               </div>
               <div className="career-role">
-                <h4>Fullstack Developer Intern</h4>
+                <h4>Full Stack Developer</h4>
                 <h5>Glimsia Global</h5>
               </div>
               <div className="career-desc">
